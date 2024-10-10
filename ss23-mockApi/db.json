@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "address": "123 Main St"
+    },
+    {
+      "name": "Thảo Phương",
+      "id": 6
+    },
+    {
+      "id": 3,
+      "name": "Thu Trang"
+    },
+    {
+      "name": "Thu Trang",
+      "id": 7
+    },
+    {
+      "name": "Thu Trang",
+      "id": 8
+    },
+    {
+      "name": "Thu Trang",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "cam tươi",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdFApBB1aRha_Y9eKhuBx1wQU6fY4n4AMyQ&s",
+      "price": 50000,
+      "quantity": 10,
+      "day": "25/3/2024"
+    },
+    {
+      "id": 2,
+      "name": "tinh dầu",
+      "img": "https://photo.znews.vn/w660/Uploaded/mdf_eioxrd/2021_07_06/2.jpg",
+      "price": 30000,
+      "quantity": 5,
+      "day": "20/2/2024"
+    },
+    {
+      "id": 3,
+      "name": "sữa tươi",
+      "img": "https://img.pikbest.com/origin/09/19/03/61zpIkbEsTGjk.jpg!w700wp",
+      "price": 20000,
+      "quantity": 8,
+      "day": "15/2/2024"
+    },
+    {
+      "name": "123",
+      "img": "123",
+      "price": 123,
+      "quantity": 123,
+      "day": "0123-11-11",
+      "id": 4
+    }
+  ]
+}
