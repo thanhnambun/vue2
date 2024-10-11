@@ -9,13 +9,15 @@
       </li>
     </ul>
     <button @click="addUser">thêm người dùng</button> -->
-    <Bt12/>
+    <!-- <Bt12/> -->
+     <Btss23></Btss23>
   </div>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import Bt12 from './components/Bt12.vue';
+// import Bt12 from './components/Bt12.vue';
+import Btss23 from './components/Btss23.vue';
 
 const users = ref([]);
 

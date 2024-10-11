@@ -60,5 +60,55 @@
       "day": "0123-11-11",
       "id": 4
     }
+  ],
+  "student": [
+    {
+      "name": "John Doe",
+      "address": "123 Main St",
+      "phone": "12334",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Thảo Phương",
+      "phone": "456",
+      "address": "456 Main St"
+    },
+    {
+      "id": 3,
+      "name": "Thu Trang",
+      "phone": "789",
+      "address": "789 Main St"
+    },
+    {
+      "name": "123",
+      "address": "213",
+      "phone": "123",
+      "id": 4
+    },
+    {
+      "name": "123",
+      "address": "123",
+      "phone": "123",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "address": "a",
+      "phone": "a",
+      "id": 6
+    },
+    {
+      "name": "nam",
+      "address": "123",
+      "phone": "0372597883",
+      "id": 7
+    },
+    {
+      "name": "nam",
+      "address": "32122",
+      "phone": "0372597883",
+      "id": 8
+    }
   ]
 }

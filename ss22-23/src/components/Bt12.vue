@@ -1,9 +1,7 @@
 <template>
-    <!-- Phần giao diện form thêm mới hoặc chỉnh sửa sản phẩm -->
     <form v-if="isAddFormVisible" @submit.prevent="validateAndAddProduct" class="form-container">
         <h2>{{ isEditing ? "Chỉnh sửa sản phẩm" : "Thêm mới sản phẩm" }}</h2>
 
-        <!-- Form nhập dữ liệu sản phẩm -->
         <div class="form-group">
             <label for="name">Tên sản phẩm:</label>
             <input type="text" id="name" v-model="newProduct.name" required />
@@ -40,7 +38,6 @@
         </div>
     </form>
 
-    <!-- Bảng hiển thị danh sách sản phẩm -->
     <table class="product-table">
         <thead>
             <tr>
@@ -217,6 +214,8 @@ const updateProduct = async (id) => {
 onMounted(() => {
     getData();
 });
+// sắp xếp 
+const sortNumber = 
 </script>
 <style scoped>
 .product-container {
